@@ -1,0 +1,1 @@
+Arduino project I made to make arduino send data from temperature sensor LM35DZ via serial.

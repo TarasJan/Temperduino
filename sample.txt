@@ -1,0 +1,15 @@
+Poland 2.2
+UK 2.8
+Germany 3.9
+Italy 3.8
+Spain 4.9
+France 3.2
+Sweden 3.9
+Ukraine 3.5
+Norway 4.3
+Portugal 4.1
+Croatia 3.0
+Iceland 3.5
+Bulgaria 3.9
+Slovakia 3.3
+Lithuania 4.1
